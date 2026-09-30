@@ -4,7 +4,7 @@
 
 ## Overview
 
-### 1. Introduction
+### Introduction
 
 In Pakistan, many blood banks work independently, causing **blood shortages** in some facilities and **wastage** in others. This project proposes a **distributed database system** that enables real-time inventory sharing between blood banks.
 
